@@ -1,5 +1,6 @@
 # Trajectory_video_processing
 This is a project to draw trajectory of red object moved in front of webcam
+
 1.This is bulit on visual studio with opencv using c++
 
 2.GO THROUGH "code.txt" file for entire code
